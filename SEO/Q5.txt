@@ -1,0 +1,7 @@
+A favicon (short for “favorite icon”) is a tiny icon associated with a particular website or web page. It serves as a visual representation of the site and is displayed in various places, including:
+
+The browser’s address bar.
+Page tabs.
+Bookmarks or favorites menu.
+
+Favicons are typically small, square images (usually 16x16 pixels or 32x32 pixels) that help users quickly identify a website when they have multiple tabs open or when bookmarking pages. They enhance the overall user experience and contribute to brand recognition
